@@ -82,7 +82,7 @@ $(document).ready(function() {
             if (n <= m) {
                 var i = t[a].m1
                   , s = !1
-                  , c = a + 2018
+                  , c = a + 2024
                   , g = t[a].name + " " + c
                   , p = "Đếm ngược đến Tết " + g + " - Sắp Tết!"
                   , l = "Sắp Tết rồi!!! Chỉ còn..."
@@ -97,7 +97,7 @@ $(document).ready(function() {
                 if (n >= t[a].m1 && (i = m,
                 n >= r ? l = "Sắp hết Tết rồi!!!" : (s = !0,
                 l = "Tết rồi!!!Tết rồi!!!",
-                f = "Cung",
+                f = "Cùsng",
                 y = "Chúc",
                 d = "Tân",
                 C = "Xuân")),
